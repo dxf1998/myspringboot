@@ -44,5 +44,6 @@
     <module>myspringboot-base</module>
     <module>myspringboot-test</module>
     <module>myspringboot-junit</module>
+    <module>myspringboot-redis</module>
   </modules>
 </project>
