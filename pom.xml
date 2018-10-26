@@ -45,5 +45,6 @@
     <module>myspringboot-test</module>
     <module>myspringboot-junit</module>
     <module>myspringboot-redis</module>
+    <module>myspringboot-rediscluster</module>
   </modules>
 </project>
